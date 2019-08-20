@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name="Sprite")
-public class Sprite {
+@XmlRootElement(name="SpriteSheet")
+public class SpriteSheet {
 
 	private String name;
 	private int characterHeight,characterWidth;

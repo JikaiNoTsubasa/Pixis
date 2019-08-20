@@ -14,7 +14,7 @@ public class Project {
 
 	private String name;
 	
-	private ArrayList<Sprite> sprites = new ArrayList<>();
+	private ArrayList<SpriteSheet> sprites = new ArrayList<>();
 
 	public String getName() {
 		return name;
@@ -29,13 +29,13 @@ public class Project {
 		this.name = name;
 	}
 
-	public ArrayList<Sprite> getSprites() {
+	public ArrayList<SpriteSheet> getSprites() {
 		return sprites;
 	}
 
 	@XmlElementWrapper(name="SpriteList")
 	@XmlElement(name="Sprite")
-	public void setSprites(ArrayList<Sprite> sprites) {
+	public void setSprites(ArrayList<SpriteSheet> sprites) {
 		this.sprites = sprites;
 	}
 }

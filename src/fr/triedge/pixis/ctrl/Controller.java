@@ -20,7 +20,7 @@ import org.apache.logging.log4j.core.config.ConfigurationSource;
 import org.apache.logging.log4j.core.config.Configurator;
 
 import fr.triedge.pixis.model.Project;
-import fr.triedge.pixis.model.Sprite;
+import fr.triedge.pixis.model.SpriteSheet;
 import fr.triedge.pixis.ui.MainWindow;
 import fr.triedge.pixis.ui.PixelEditor;
 import fr.triedge.pixis.ui.PixisTabListener;
@@ -100,7 +100,7 @@ public class Controller {
 						DefaultMutableTreeNode prjNode = new DefaultMutableTreeNode(prj.getName());
 						DefaultMutableTreeNode spNode = new DefaultMutableTreeNode("Sprites");
 						prjNode.add(spNode);
-						for (Sprite sp : prj.getSprites()) {
+						for (SpriteSheet sp : prj.getSprites()) {
 							spNode.add(new DefaultMutableTreeNode(sp.getName()));
 						}
 						DefaultMutableTreeNode root = (DefaultMutableTreeNode)getMainWindow().getTree().getModel().getRoot();
@@ -117,7 +117,7 @@ public class Controller {
 	
 	public void actionNewSprite(DefaultMutableTreeNode node) {
 		log.debug("ACTION CALLED: New Sprite");
-		Sprite sprite = UI.showNewSprite();
+		SpriteSheet sprite = UI.showNewSprite();
 		if (sprite != null) {
 			DefaultMutableTreeNode projectNode = UI.getProjectFromChild(node);
 			DefaultMutableTreeNode targetNode = UI.getChildByName(projectNode, Const.SPRITES);
@@ -161,7 +161,7 @@ public class Controller {
 			log.warn("Tried to open sprite but project is null");
 			return;
 		}
-		Sprite sp = getSpriteByName(prj, spriteName);
+		SpriteSheet sp = getSpriteByName(prj, spriteName);
 		if (sp == null) {
 			log.warn("Tried to open sprite but sprite is null");
 			return;
@@ -192,8 +192,8 @@ public class Controller {
 		return null;
 	}
 	
-	public Sprite getSpriteByName(Project project, String name) {
-		for (Sprite s : project.getSprites())
+	public SpriteSheet getSpriteByName(Project project, String name) {
+		for (SpriteSheet s : project.getSprites())
 			if (s.getName().equals(name))
 				return s;
 		return null;

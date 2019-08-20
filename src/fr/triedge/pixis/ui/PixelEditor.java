@@ -3,8 +3,6 @@ package fr.triedge.pixis.ui;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +11,7 @@ import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
 import fr.triedge.pixis.ctrl.Controller;
-import fr.triedge.pixis.model.Sprite;
+import fr.triedge.pixis.model.SpriteSheet;
 
 public class PixelEditor extends JPanel{
 	//https://stackoverflow.com/questions/2900801/wanting-a-type-of-grid-for-a-pixel-editor/2901472#2901472
@@ -21,11 +19,11 @@ public class PixelEditor extends JPanel{
 	private static final long serialVersionUID = 6821220201585858378L;
 
 	private Controller controller;
-	private Sprite sprite;
+	private SpriteSheet sprite;
 	
 	BufferedImage img;
 	
-	public PixelEditor(Controller controller, Sprite sprite) {
+	public PixelEditor(Controller controller, SpriteSheet sprite) {
 		setController(controller);
 		setSprite(sprite);
 	}
@@ -57,11 +55,11 @@ public class PixelEditor extends JPanel{
 		this.controller = controller;
 	}
 
-	public Sprite getSprite() {
+	public SpriteSheet getSprite() {
 		return sprite;
 	}
 
-	public void setSprite(Sprite sprite) {
+	public void setSprite(SpriteSheet sprite) {
 		this.sprite = sprite;
 	}
 }

@@ -801,3 +801,10 @@ Caused by: java.io.FileNotFoundException: projects\project1.prj (The system cann
 2019-08-20 18:09:50 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
 2019-08-20 18:09:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
 2019-08-20 18:09:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-20 21:27:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-20 21:27:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-20 21:27:39 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-20 21:27:51 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-20 21:27:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-20 21:38:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-20 21:38:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit

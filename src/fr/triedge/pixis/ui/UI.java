@@ -13,7 +13,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.tree.DefaultMutableTreeNode;
 
 import fr.triedge.pixis.model.Project;
-import fr.triedge.pixis.model.Sprite;
+import fr.triedge.pixis.model.SpriteSheet;
 import fr.triedge.pixis.utils.Const;
 
 public class UI {
@@ -40,8 +40,8 @@ public class UI {
 		return project;
 	}
 	
-	public static Sprite showNewSprite() {
-		Sprite sprite = null;
+	public static SpriteSheet showNewSprite() {
+		SpriteSheet sprite = null;
 		JTextField textName = new JTextField("sprite1");
 		JTextField numCharacterHeight = new JTextField("16");
 		JTextField numCharacterWidth = new JTextField("16");
@@ -57,7 +57,7 @@ public class UI {
 		int result = JOptionPane.showConfirmDialog(null, panel, "New Sprite",
 				JOptionPane.OK_CANCEL_OPTION, JOptionPane.PLAIN_MESSAGE);
 		if (result == JOptionPane.OK_OPTION) {
-			sprite = new Sprite();
+			sprite = new SpriteSheet();
 			sprite.setName(textName.getText().replace(" ", "_")+Const.EXT_SPRITE);
 			sprite.setCharacterHeight(Integer.valueOf(numCharacterHeight.getText()));
 			sprite.setCharacterWidth(Integer.valueOf(numCharacterWidth.getText()));
