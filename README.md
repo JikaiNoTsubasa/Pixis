@@ -1,2 +1,2 @@
 # Pixis
-Java tool to draw and animate pixels
+Pixis is a java tool to create and animate 2D sprites for game creation.

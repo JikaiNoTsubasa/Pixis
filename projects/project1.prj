@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project>
+    <ProjectName>project1.prj</ProjectName>
+    <SpriteList>
+        <Sprite>
+            <CharacterHeight>16</CharacterHeight>
+            <CharacterWidth>16</CharacterWidth>
+            <SpriteName>sprite1.sp</SpriteName>
+        </Sprite>
+        <Sprite>
+            <CharacterHeight>16</CharacterHeight>
+            <CharacterWidth>16</CharacterWidth>
+            <SpriteName>sprite2.sp</SpriteName>
+        </Sprite>
+        <Sprite>
+            <CharacterHeight>16</CharacterHeight>
+            <CharacterWidth>16</CharacterWidth>
+            <SpriteName>sprite3.sp</SpriteName>
+        </Sprite>
+    </SpriteList>
+</Project>
