@@ -15,6 +15,8 @@ public class Project {
 	private String name;
 	
 	private ArrayList<SpriteSheet> sprites = new ArrayList<>();
+	private ArrayList<Map> maps = new ArrayList<>();
+	private ArrayList<Palette> palettes = new ArrayList<>();
 
 	public String getName() {
 		return name;
@@ -37,5 +39,30 @@ public class Project {
 	@XmlElement(name="Sprite")
 	public void setSprites(ArrayList<SpriteSheet> sprites) {
 		this.sprites = sprites;
+	}
+
+	public ArrayList<Map> getMaps() {
+		return maps;
+	}
+
+	@XmlElementWrapper(name="MapList")
+	@XmlElement(name="Map")
+	public void setMaps(ArrayList<Map> maps) {
+		this.maps = maps;
+	}
+
+	public ArrayList<Palette> getPalettes() {
+		return palettes;
+	}
+
+	@XmlElementWrapper(name="PaletteList")
+	@XmlElement(name="Palette")
+	public void setPalettes(ArrayList<Palette> palettes) {
+		this.palettes = palettes;
+	}
+	
+	@Override
+	public String toString() {
+		return getName();
 	}
 }

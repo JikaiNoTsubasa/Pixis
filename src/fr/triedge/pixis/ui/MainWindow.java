@@ -12,7 +12,6 @@ import javax.swing.JSeparator;
 import javax.swing.JSplitPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTree;
-import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 
 import org.apache.logging.log4j.LogManager;
@@ -57,6 +56,7 @@ public class MainWindow extends JFrame{
 		setupTreePopup();
 
 		setTabPane(new JTabbedPane());
+		getTabPane().addMouseListener(new PixisTabListener(getTabPane()));
 		getSplitPane().add(new JScrollPane(getTree()));
 		getSplitPane().add(getTabPane());
 
@@ -96,11 +96,11 @@ public class MainWindow extends JFrame{
 	}
 	
 	public void openTreeMenu(Component c, int x, int y) {
-		DefaultMutableTreeNode node = (DefaultMutableTreeNode)getTree().getLastSelectedPathComponent();
-		String name = node.getUserObject().toString();
+		Node node = (Node)getTree().getLastSelectedPathComponent();
+		// String name = node.getUserObject().toString();
 		// Create dynamic menu
 		setTreePopup(new JPopupMenu("Project Menu"));
-		if (name.equals(Const.PROJECTS)) {
+		if (node.allowedChildrenType == NodeType.PROJECT) {
 			JMenuItem itemNewP = new JMenuItem("New Project");
 			itemNewP.addActionListener(e -> getController().actionNewProject());
 			JMenuItem itemOpenP = new JMenuItem("Open Project");
@@ -108,30 +108,45 @@ public class MainWindow extends JFrame{
 			getTreePopup().add(itemNewP);
 			getTreePopup().add(itemOpenP);
 		}
-		if (name.equals(Const.SPRITES) || name.endsWith(Const.EXT_PROJECT)) {
-			JMenuItem itemNewS = new JMenuItem("New Sprite");
-			itemNewS.addActionListener(e -> getController().actionNewSprite(node));
-			getTreePopup().add(itemNewS);
+		if (node.allowedChildrenType == NodeType.SPRITE || node.allowedChildrenType == NodeType.ALL) {
+			JMenuItem item = new JMenuItem("New Sprite");
+			item.addActionListener(e -> getController().actionNewNode(node,NodeType.SPRITE));
+			getTreePopup().add(item);
+		}
+		if (node.allowedChildrenType == NodeType.PALETTE || node.allowedChildrenType == NodeType.ALL) {
+			JMenuItem item = new JMenuItem("New Palette");
+			item.addActionListener(e -> getController().actionNewNode(node,NodeType.PALETTE));
+			getTreePopup().add(item);
+		}
+		if (node.allowedChildrenType == NodeType.MAP || node.allowedChildrenType == NodeType.ALL) {
+			JMenuItem item = new JMenuItem("New Map");
+			item.addActionListener(e -> getController().actionNewNode(node,NodeType.MAP));
+			getTreePopup().add(item);
 		}
 		getTreePopup().show(c, x, y);
 	}
 
 	private void setupTree() {
 		// Setup tree http://www.informit.com/articles/article.aspx?p=26327
-		DefaultMutableTreeNode root = new DefaultMutableTreeNode(Const.PROJECTS);
+		Node root = new Node(Const.PROJECTS, NodeType.ROOT, NodeType.PROJECT);
 		setTree(new JTree(root));
 		getController().setTreeModel((DefaultTreeModel)getTree().getModel());
 		getTree().setShowsRootHandles(true);
+		getTree().setRowHeight(20);
 		getTree().setCellRenderer(new PixisTreeRenderer());
 		getTree().addMouseListener(new PixisTreeListener(this,getTree(),getController()));
 	}
 	
 	public void doubleClicked() {
-		DefaultMutableTreeNode node = (DefaultMutableTreeNode)getTree().getLastSelectedPathComponent();
+		Node node = (Node)getTree().getLastSelectedPathComponent();
 		String name = node.getUserObject().toString();
-		if (name.endsWith(Const.EXT_SPRITE)) {
-			DefaultMutableTreeNode prjNode = UI.getProjectFromChild(node);
-			getController().actionDisplaySprite(prjNode.getUserObject().toString(), name);
+		if (node.type == NodeType.SPRITE) {
+			Node prjNode = UI.getProjectFromChild(node);
+			getController().actionDisplaySpriteSheet(prjNode.getUserObject().toString(), name);
+		}
+		if (node.type == NodeType.PALETTE) {
+			Node prjNode = UI.getProjectFromChild(node);
+			getController().actionDisplayPalette(prjNode.getUserObject().toString(), name);
 		}
 	}
 

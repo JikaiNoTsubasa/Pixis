@@ -808,3 +808,818 @@ Caused by: java.io.FileNotFoundException: projects\project1.prj (The system cann
 2019-08-20 21:27:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
 2019-08-20 21:38:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
 2019-08-20 21:38:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 13:28:27 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 13:28:27 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 13:28:27 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 13:28:29 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 13:28:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 13:28:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 13:28:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 13:31:36 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 13:31:36 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 13:31:36 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 13:31:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 13:31:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 13:31:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 13:31:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 13:32:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 13:32:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 13:32:45 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 13:32:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 13:32:48 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 13:33:30 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 13:33:30 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:11:18 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:11:18 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:11:18 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:11:20 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:11:21 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:12:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:12:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:15:42 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:15:42 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:15:42 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:15:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:15:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:15:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Sprite
+2019-08-21 14:15:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - sprite created: sprite1.sp
+2019-08-21 14:15:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Sprite
+2019-08-21 14:16:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:16:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:21:24 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:21:24 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:21:24 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:21:26 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:21:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:21:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Sprite
+2019-08-21 14:21:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - sprite created: sprite10.sp
+2019-08-21 14:21:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Sprite
+2019-08-21 14:21:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:21:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:41:03 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:41:03 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:41:03 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:41:06 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:41:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:43:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:43:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:43:06 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:43:06 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:43:06 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:43:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-21 14:43:08 [AWT-EventQueue-0] WARN  fr.triedge.pixis.ctrl.Controller - Project is null
+2019-08-21 14:43:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-21 14:43:10 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:43:11 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:44:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:44:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:46:38 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:46:38 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:46:38 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:46:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:46:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:46:54 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:46:54 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:46:54 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:46:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:46:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:47:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Sprite
+2019-08-21 14:47:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - sprite created: sprite4.sp
+2019-08-21 14:47:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Sprite
+2019-08-21 14:47:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:47:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 14:55:37 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 14:55:37 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 14:55:37 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 14:55:39 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 14:55:40 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 14:55:51 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 14:55:51 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 15:25:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 15:25:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 15:25:44 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 15:25:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 15:25:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 15:25:56 [AWT-EventQueue-0] ERROR fr.triedge.pixis.ctrl.Controller - Cannot load icon
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1301) ~[?:1.8.0_121]
+	at fr.triedge.pixis.ctrl.Controller.actionDisplaySprite(Controller.java:167) [bin/:?]
+	at fr.triedge.pixis.ui.MainWindow.doubleClicked(MainWindow.java:157) [bin/:?]
+	at fr.triedge.pixis.ui.PixisTreeListener.mouseClicked(PixisTreeListener.java:34) [bin/:?]
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270) [?:1.8.0_121]
+	at java.awt.Component.processMouseEvent(Component.java:6536) [?:1.8.0_121]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324) [?:1.8.0_121]
+	at java.awt.Component.processEvent(Component.java:6298) [?:1.8.0_121]
+	at java.awt.Container.processEvent(Container.java:2236) [?:1.8.0_121]
+	at java.awt.Component.dispatchEventImpl(Component.java:4889) [?:1.8.0_121]
+	at java.awt.Container.dispatchEventImpl(Container.java:2294) [?:1.8.0_121]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466) [?:1.8.0_121]
+	at java.awt.Container.dispatchEventImpl(Container.java:2280) [?:1.8.0_121]
+	at java.awt.Window.dispatchEventImpl(Window.java:2746) [?:1.8.0_121]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [?:1.8.0_121]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) [?:1.8.0_121]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_121]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_121]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_121]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90) [?:1.8.0_121]
+	at java.awt.EventQueue$4.run(EventQueue.java:731) [?:1.8.0_121]
+	at java.awt.EventQueue$4.run(EventQueue.java:729) [?:1.8.0_121]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_121]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_121]
+2019-08-21 15:25:58 [AWT-EventQueue-0] ERROR fr.triedge.pixis.ctrl.Controller - Cannot load icon
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1301) ~[?:1.8.0_121]
+	at fr.triedge.pixis.ctrl.Controller.actionDisplaySprite(Controller.java:167) [bin/:?]
+	at fr.triedge.pixis.ui.MainWindow.doubleClicked(MainWindow.java:157) [bin/:?]
+	at fr.triedge.pixis.ui.PixisTreeListener.mouseClicked(PixisTreeListener.java:34) [bin/:?]
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270) [?:1.8.0_121]
+	at java.awt.Component.processMouseEvent(Component.java:6536) [?:1.8.0_121]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324) [?:1.8.0_121]
+	at java.awt.Component.processEvent(Component.java:6298) [?:1.8.0_121]
+	at java.awt.Container.processEvent(Container.java:2236) [?:1.8.0_121]
+	at java.awt.Component.dispatchEventImpl(Component.java:4889) [?:1.8.0_121]
+	at java.awt.Container.dispatchEventImpl(Container.java:2294) [?:1.8.0_121]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466) [?:1.8.0_121]
+	at java.awt.Container.dispatchEventImpl(Container.java:2280) [?:1.8.0_121]
+	at java.awt.Window.dispatchEventImpl(Window.java:2746) [?:1.8.0_121]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [?:1.8.0_121]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) [?:1.8.0_121]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_121]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_121]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_121]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90) [?:1.8.0_121]
+	at java.awt.EventQueue$4.run(EventQueue.java:731) [?:1.8.0_121]
+	at java.awt.EventQueue$4.run(EventQueue.java:729) [?:1.8.0_121]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_121]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_121]
+2019-08-21 15:26:00 [AWT-EventQueue-0] ERROR fr.triedge.pixis.ctrl.Controller - Cannot load icon
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1301) ~[?:1.8.0_121]
+	at fr.triedge.pixis.ctrl.Controller.actionDisplaySprite(Controller.java:167) [bin/:?]
+	at fr.triedge.pixis.ui.MainWindow.doubleClicked(MainWindow.java:157) [bin/:?]
+	at fr.triedge.pixis.ui.PixisTreeListener.mouseClicked(PixisTreeListener.java:34) [bin/:?]
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270) [?:1.8.0_121]
+	at java.awt.Component.processMouseEvent(Component.java:6536) [?:1.8.0_121]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324) [?:1.8.0_121]
+	at java.awt.Component.processEvent(Component.java:6298) [?:1.8.0_121]
+	at java.awt.Container.processEvent(Container.java:2236) [?:1.8.0_121]
+	at java.awt.Component.dispatchEventImpl(Component.java:4889) [?:1.8.0_121]
+	at java.awt.Container.dispatchEventImpl(Container.java:2294) [?:1.8.0_121]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534) [?:1.8.0_121]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466) [?:1.8.0_121]
+	at java.awt.Container.dispatchEventImpl(Container.java:2280) [?:1.8.0_121]
+	at java.awt.Window.dispatchEventImpl(Window.java:2746) [?:1.8.0_121]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [?:1.8.0_121]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) [?:1.8.0_121]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_121]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_121]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_121]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90) [?:1.8.0_121]
+	at java.awt.EventQueue$4.run(EventQueue.java:731) [?:1.8.0_121]
+	at java.awt.EventQueue$4.run(EventQueue.java:729) [?:1.8.0_121]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_121]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_121]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_121]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_121]
+2019-08-21 15:26:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 15:26:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 15:26:34 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 15:26:34 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 15:26:34 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 15:26:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 15:26:37 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 15:27:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-21 15:27:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - Project created: Abatur.prj
+2019-08-21 15:27:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-21 15:28:01 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Sprite
+2019-08-21 15:28:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - sprite created: Mouly.sp
+2019-08-21 15:28:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Sprite
+2019-08-21 15:28:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 15:28:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:06:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:06:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:06:39 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:06:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-21 17:06:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - Project created: project1.prj
+2019-08-21 17:06:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-21 17:06:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Map
+2019-08-21 17:06:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Map
+2019-08-21 17:06:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Sprite
+2019-08-21 17:06:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Sprite
+2019-08-21 17:07:05 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Map
+2019-08-21 17:07:10 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Map
+2019-08-21 17:07:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-21 17:08:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - Project created: Amadeus.prj
+2019-08-21 17:08:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-21 17:09:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Map
+2019-08-21 17:09:20 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Map
+2019-08-21 17:25:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:25:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:25:39 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:25:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:25:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:26:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-21 17:26:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - Project created: Abatur.prj
+2019-08-21 17:26:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-21 17:26:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:26:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:26:21 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:26:21 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:26:21 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:26:25 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:26:26 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:26:50 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:26:50 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:28:16 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:28:16 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:28:16 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:28:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:28:20 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:28:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:28:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:28:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:28:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:28:46 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:28:48 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:28:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:30:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:30:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:30:38 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:30:38 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:30:39 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:30:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:30:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:30:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: MAP
+2019-08-21 17:30:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: MAP
+2019-08-21 17:30:50 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: PALETTE
+2019-08-21 17:30:51 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: PALETTE
+2019-08-21 17:30:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-21 17:30:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: SPRITE
+2019-08-21 17:30:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:30:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:30:59 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:30:59 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:30:59 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:31:01 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:31:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:31:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:31:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:34:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:34:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:34:45 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:34:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:34:48 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:35:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:35:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-21 17:35:47 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-21 17:35:47 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-21 17:35:47 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-21 17:35:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-21 17:35:51 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-21 17:36:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-21 17:36:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:04:32 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:04:32 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:04:32 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:04:34 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:04:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:04:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:04:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:05:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:05:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:05:40 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:05:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:05:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:05:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:05:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:06:10 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:06:10 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:06:11 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:06:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:06:15 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:06:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:06:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:06:55 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:06:55 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:06:55 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:06:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:06:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:07:24 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:07:24 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:07:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:07:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:07:45 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:07:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:07:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:08:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:08:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:08:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:08:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:08:44 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:08:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:08:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:16:35 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:16:35 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:16:35 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:16:37 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:16:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:17:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:17:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:17:29 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:17:29 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:17:29 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:17:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:17:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:18:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:18:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:24:55 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:24:55 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:24:55 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:25:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:25:01 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:25:15 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:25:15 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:39:56 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:39:56 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:39:56 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:39:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:39:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:40:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-22 09:40:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:40:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:40:55 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:40:55 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:40:55 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:40:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:40:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:41:04 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-22 09:41:21 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:41:21 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:46:44 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:46:44 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:46:45 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:46:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-22 09:46:49 [AWT-EventQueue-0] WARN  fr.triedge.pixis.ctrl.Controller - Project is null
+2019-08-22 09:46:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-22 09:46:50 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:46:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:46:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-22 09:47:12 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: SPRITE
+2019-08-22 09:48:36 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:48:36 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:48:36 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:48:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-22 09:48:46 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - Project created: Abatur.prj
+2019-08-22 09:48:46 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-22 09:48:51 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-22 09:48:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: SPRITE
+2019-08-22 09:56:34 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 09:56:34 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 09:56:40 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:56:40 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:56:40 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:56:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:56:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 09:59:51 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 09:59:51 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 09:59:51 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 09:59:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 09:59:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:00:04 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:00:04 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:00:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:00:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:00:41 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:00:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:00:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:00:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:00:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:05:11 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:05:11 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:05:11 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:05:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-22 10:05:15 [AWT-EventQueue-0] WARN  fr.triedge.pixis.ctrl.Controller - Project is null
+2019-08-22 10:05:15 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-22 10:05:16 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:05:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:05:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-22 10:05:29 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: SPRITE
+2019-08-22 10:08:26 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:08:26 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:08:26 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:08:28 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:08:30 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:09:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:09:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:10:15 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:10:15 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:10:15 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:10:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:10:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:16:04 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:16:04 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:16:07 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:16:07 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:16:07 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:16:11 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:16:12 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:18:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:18:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:18:11 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:18:11 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:18:12 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:18:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:18:15 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:18:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:18:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:21:09 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:21:09 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:21:09 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:21:10 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:21:10 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:21:19 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:21:19 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:21:19 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:21:20 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:21:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:26:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:26:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:27:09 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:27:09 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:27:09 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:27:10 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:27:12 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:27:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:27:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:27:44 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:27:44 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:27:44 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:27:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:27:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:28:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 10:28:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 10:34:35 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:34:35 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:34:35 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:34:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:34:40 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:35:29 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:35:29 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:35:29 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:35:30 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:35:32 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 10:39:51 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 10:39:51 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 10:39:51 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 10:39:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 10:39:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:05:35 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:05:35 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:11:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:11:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:11:41 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:11:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:11:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:11:54 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:11:54 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:11:55 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:11:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:12:01 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:12:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:12:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:12:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:12:39 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:12:39 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:12:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:12:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:12:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:12:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:15:30 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:15:30 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:15:30 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:15:32 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:15:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:15:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:15:49 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:15:52 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:15:52 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:15:52 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:15:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:15:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:16:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:16:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:16:30 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:16:30 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:16:30 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:16:32 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:16:34 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:17:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:17:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:19:30 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:19:30 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:19:30 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:19:32 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:19:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:19:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:19:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:19:56 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:19:56 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:19:57 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:19:58 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:20:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:20:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:20:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:23:34 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:23:34 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:23:34 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:23:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:23:37 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:25:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:25:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:25:06 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:25:06 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:25:07 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:25:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:25:10 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:28:39 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:28:39 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:28:42 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:28:42 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:28:42 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:28:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:28:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:29:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:29:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:29:15 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:29:15 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:29:15 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:29:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:29:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:29:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:29:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:30:09 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:30:09 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:30:09 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:30:11 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:30:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:30:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:30:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:31:22 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:31:22 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:31:23 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:31:24 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:31:26 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:31:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:31:52 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:32:12 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:32:12 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:32:12 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:32:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Project
+2019-08-22 11:32:15 [AWT-EventQueue-0] WARN  fr.triedge.pixis.ctrl.Controller - Project is null
+2019-08-22 11:32:15 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Project
+2019-08-22 11:32:16 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:32:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:32:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: SPRITE
+2019-08-22 11:32:23 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: SPRITE
+2019-08-22 11:32:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:32:53 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:35:53 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:35:53 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:35:53 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:35:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:35:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:36:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:36:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:39:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:39:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:39:42 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:39:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:39:46 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:40:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:40:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:41:37 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:41:37 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:41:37 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:41:39 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:41:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:42:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:42:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:44:59 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:44:59 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:44:59 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:45:01 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:45:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:45:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:45:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:57:25 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:57:25 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:57:26 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:57:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:57:29 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 11:57:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 11:57:54 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 11:59:16 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 11:59:16 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 11:59:16 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 11:59:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 11:59:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:00:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:00:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 12:00:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 12:00:41 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 12:00:41 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 12:00:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 12:00:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:01:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:01:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 12:01:32 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 12:01:32 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 12:01:32 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 12:01:34 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 12:01:35 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:01:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:01:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 12:14:21 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 12:14:21 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 12:14:21 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 12:14:24 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 12:14:25 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:14:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: PALETTE
+2019-08-22 12:14:28 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: PALETTE
+2019-08-22 12:17:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:17:42 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 12:19:24 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 12:19:24 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 12:19:24 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 12:19:26 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 12:19:27 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:20:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:20:03 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 12:22:16 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 12:22:16 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 12:22:16 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 12:22:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 12:22:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:22:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: PALETTE
+2019-08-22 12:22:46 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: PALETTE
+2019-08-22 12:22:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:22:59 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 12:24:17 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 12:24:17 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 12:24:17 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 12:24:19 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 12:24:20 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 12:24:29 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 12:24:29 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 13:59:18 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 13:59:18 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 13:59:18 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 13:59:20 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 13:59:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 13:59:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 13:59:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 14:15:28 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 14:15:28 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 14:15:28 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 14:15:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 14:15:33 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 14:15:40 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: PALETTE
+2019-08-22 14:19:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 14:19:02 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 14:19:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 14:19:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 14:19:43 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 14:19:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 14:19:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 14:20:11 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 14:20:11 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 15:31:08 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:31:08 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:31:09 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:31:11 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:31:12 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:32:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:32:45 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:32:45 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:32:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:32:48 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:32:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 15:32:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 15:32:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 15:32:57 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 15:33:53 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:33:53 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:33:53 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:33:55 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:33:56 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:35:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:35:43 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:35:44 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:35:45 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:35:47 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:50:06 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 15:50:06 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 15:50:35 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:50:35 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:50:35 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:50:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:50:39 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:51:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 15:51:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 15:53:03 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:53:03 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:53:03 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:53:05 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:53:06 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:55:10 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:55:10 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:55:10 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:55:12 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:55:13 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:58:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 15:58:17 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 15:58:20 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:58:20 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:58:20 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:58:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:58:23 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 15:59:40 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 15:59:40 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 15:59:40 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 15:59:43 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 15:59:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:01:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 16:01:00 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 16:01:04 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 16:01:04 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 16:01:04 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 16:01:06 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 16:01:08 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:03:25 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 16:03:25 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 16:03:28 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 16:03:28 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 16:03:28 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 16:03:30 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 16:03:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:06:14 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 16:06:14 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 16:06:14 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 16:06:16 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 16:06:18 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:06:39 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: New Node of type: PALETTE
+2019-08-22 16:06:41 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: New Node of type: PALETTE
+2019-08-22 16:06:50 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 16:06:50 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 16:07:34 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 16:07:34 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 16:07:34 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 16:07:36 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 16:07:38 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:12:42 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 16:12:42 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 16:12:43 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 16:12:44 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 16:12:46 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:20:24 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 16:20:24 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-22 16:20:28 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-22 16:20:28 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-22 16:20:28 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-22 16:20:30 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-22 16:20:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-22 16:21:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-22 16:21:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit

@@ -3,6 +3,7 @@ package fr.triedge.pixis.model;
 import java.util.ArrayList;
 
 import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name="SpriteSheet")
@@ -10,13 +11,14 @@ public class SpriteSheet {
 
 	private String name;
 	private int characterHeight,characterWidth;
-	private ArrayList<SpriteSerie> layers = new ArrayList<>();
+	private ArrayList<SpriteLayer> layers = new ArrayList<>();
+	private int imageType;
 
 	public String getName() {
 		return name;
 	}
 
-	@XmlElement(name="SpriteName")
+	@XmlElement(name="SpriteSheetName")
 	public void setName(String name) {
 		this.name = name;
 	}
@@ -39,11 +41,27 @@ public class SpriteSheet {
 		this.characterHeight = characterHeight;
 	}
 
-	public ArrayList<SpriteSerie> getLayers() {
+	public ArrayList<SpriteLayer> getLayers() {
 		return layers;
 	}
 
-	public void setLayers(ArrayList<SpriteSerie> layers) {
+	@XmlElementWrapper(name="LayerList")
+	@XmlElement(name="SpriteLayer")
+	public void setLayers(ArrayList<SpriteLayer> layers) {
 		this.layers = layers;
+	}
+
+	public int getImageType() {
+		return imageType;
+	}
+
+	@XmlElement(name="ImageType")
+	public void setImageType(int imageType) {
+		this.imageType = imageType;
+	}
+	
+	@Override
+	public String toString() {
+		return getName();
 	}
 }
