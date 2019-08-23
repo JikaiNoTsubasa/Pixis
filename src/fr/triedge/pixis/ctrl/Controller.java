@@ -7,8 +7,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import javax.imageio.ImageIO;
-import javax.swing.ImageIcon;
 import javax.swing.JColorChooser;
 import javax.swing.JTabbedPane;
 import javax.swing.tree.DefaultTreeModel;
@@ -30,6 +28,7 @@ import fr.triedge.pixis.ui.NodeType;
 import fr.triedge.pixis.ui.SpriteEditor;
 import fr.triedge.pixis.ui.UI;
 import fr.triedge.pixis.utils.Const;
+import fr.triedge.pixis.utils.Icons;
 import fr.triedge.pixis.utils.Storage;
 
 public class Controller {
@@ -179,7 +178,7 @@ public class Controller {
 		String projectName = projectNode.getUserObject().toString();
 		Project prj = getProjectByName(projectName);
 		Node createdNode = null;
-		
+
 		switch(type){
 		case PALETTE:
 			Palette pal = UI.showNewPalette();
@@ -204,7 +203,7 @@ public class Controller {
 			break;
 		default:
 			break;
-			
+
 		}
 		try {
 			prj.save();
@@ -248,17 +247,13 @@ public class Controller {
 			log.warn("Tried to open sprite but sprite is null");
 			return;
 		}
-		
+
 		SpriteEditor editor = new SpriteEditor(this,sp,prj);
 		editor.build();
-		try {
-			tabs.addTab(spriteName, new ImageIcon(ImageIO.read(new File("img/icon/o_male.png"))), editor);
-			tabs.setSelectedComponent(editor);
-		} catch (IOException e) {
-			log.error("Cannot load icon",e);
-		}
+		tabs.addTab(spriteName, Icons.spriteIcon, editor);
+		tabs.setSelectedComponent(editor);
 	}
-	
+
 	public void actionDisplayPalette(String projectName, String paletteName) {
 		Project prj = getProjectByName(projectName);
 		Palette pal = getPaletteByName(prj, paletteName);
@@ -285,7 +280,7 @@ public class Controller {
 				return p;
 		return null;
 	}
-	
+
 	public Palette getPaletteByName(Project project, String name) {
 		for(Palette p : project.getPalettes())
 			if (p.getName().equals(name))

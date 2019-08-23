@@ -1623,3 +1623,10 @@ javax.imageio.IIOException: Can't read input file!
 2019-08-22 16:20:31 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
 2019-08-22 16:21:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
 2019-08-22 16:21:07 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit
+2019-08-23 15:00:07 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Starting initialization...
+2019-08-23 15:00:07 [main] DEBUG fr.triedge.pixis.ctrl.Controller - Initialization completed
+2019-08-23 15:00:07 [main] DEBUG fr.triedge.pixis.ui.MainWindow - Windows built
+2019-08-23 15:00:14 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Open Project
+2019-08-23 15:00:16 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Open Project
+2019-08-23 15:00:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION CALLED: Quit
+2019-08-23 15:00:22 [AWT-EventQueue-0] DEBUG fr.triedge.pixis.ctrl.Controller - ACTION DONE: Quit

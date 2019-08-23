@@ -90,13 +90,6 @@ public class UI {
 			// Create first sprite
 			spriteSheet.getLayers().add(new SpriteLayer());
 			BufferedImage img = new BufferedImage(spriteSheet.getCharacterWidth(), spriteSheet.getCharacterHeight(), spriteSheet.getImageType());
-			/*
-			try {
-				img = ImageIO.read(new File("img/sprite/Dummy.png"));
-			} catch (IOException e1) {
-				e1.printStackTrace();
-			}
-			*/
 			Sprite sp = new Sprite();
 			spriteSheet.getLayers().get(0).getSprites().add(sp);
 			sp.setPosXonSheet(0);

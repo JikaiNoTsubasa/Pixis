@@ -13,12 +13,9 @@ import java.awt.event.MouseMotionListener;
 import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
 import java.awt.image.BufferedImage;
-import java.io.File;
 import java.io.IOException;
 
-import javax.imageio.ImageIO;
 import javax.swing.DefaultComboBoxModel;
-import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JLabel;
@@ -35,6 +32,7 @@ import fr.triedge.pixis.model.Palette;
 import fr.triedge.pixis.model.Project;
 import fr.triedge.pixis.model.Sprite;
 import fr.triedge.pixis.model.SpriteSheet;
+import fr.triedge.pixis.utils.Icons;
 import fr.triedge.pixis.utils.Utils;
 
 public class SpriteEditor extends JPanel implements MouseWheelListener{
@@ -76,12 +74,8 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 		setBtnZoomFactor(new JButton());
 		updateZoomDisplay();
 		setupPalettes();
-		try {
-			setBtnSave(new JButton(new ImageIcon(ImageIO.read(new File("img/icon/o_save.png")))));
-			setBtnRefreshCombo(new JButton(new ImageIcon(ImageIO.read(new File("img/icon/o_refresh.png")))));
-		} catch (IOException e1) {
-			UI.error("Cannot load button image", e1);
-		}
+		setBtnSave(new JButton(Icons.saveIcon));
+		setBtnRefreshCombo(new JButton(Icons.refreshIcon));
 
 		setStatusBar(new JPanel(new FlowLayout(FlowLayout.LEFT)));
 		getStatusBar().setBorder(new CompoundBorder(new LineBorder(Color.DARK_GRAY),new EmptyBorder(4, 4, 4, 4)));
@@ -96,9 +90,9 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 		getBtnZoomFactor().addActionListener(e -> resetZoomFactor());
 		getBtnSave().addActionListener(e -> saveProject());
 		getBtnRefreshCombo().addActionListener(e -> updatePalettes());
-		
+
 		getComboPalettes().addActionListener(new ActionListener() {
-			
+
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				repaint();
@@ -122,7 +116,7 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 			UI.error("Cannot load image from bytes", e);
 		}
 	}
-	
+
 	public void setupPalettes() {
 		int numberOfPalettes = getProject().getPalettes().size();
 		Palette[] pals = new Palette[numberOfPalettes];
@@ -133,10 +127,10 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 		revalidate();
 		repaint();
 	}
-	
+
 	public void updatePalettes() {
 		UI.queue(new Runnable() {
-			
+
 			@Override
 			public void run() {
 				DefaultComboBoxModel<Palette> model = (DefaultComboBoxModel<Palette>)getComboPalettes().getModel();
@@ -149,24 +143,24 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 			}
 		});
 	}
-	
+
 	private class PaletteDisplayer extends JPanel implements MouseListener{
 		private static final long serialVersionUID = 7714820717792969665L;
 		private int colorSize = 20, colorColumns = 6, colorRows = 20;
 		int selectedX = 0;
 		int selectedY = 0;
-		
+
 		public PaletteDisplayer() {
 			setBackground(Color.ORANGE);
 			setLayout(new BorderLayout());
 			setPreferredSize(new Dimension(colorSize*colorColumns, colorSize*colorRows));
 			addMouseListener(this);
 		}
-		
+
 		@Override
 		protected void paintComponent(Graphics g) {
 			Palette pal = (Palette)getComboPalettes().getSelectedItem();
-			
+
 			for (int i = 0; i < pal.getColors().size(); ++i) {
 				int rgba = pal.getColors().get(i);
 				int x = (i * colorSize)%(colorColumns*colorSize);
@@ -197,22 +191,22 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 
 		@Override
 		public void mousePressed(MouseEvent e) {
-			
+
 		}
 
 		@Override
 		public void mouseReleased(MouseEvent e) {
-			
+
 		}
 
 		@Override
 		public void mouseEntered(MouseEvent e) {
-			
+
 		}
 
 		@Override
 		public void mouseExited(MouseEvent e) {
-			
+
 		}
 	}
 
@@ -237,7 +231,7 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 			g.setColor(Color.red);
 			g.drawRect(0, 0, (int)(img.getWidth()*zoomFactor),(int)(img.getHeight()*zoomFactor));
 		}
-		
+
 		private void updatePanelSize() {
 			setSize((int)(spWidth*getZoomFactor()), (int)(spHeight*getZoomFactor()));
 		}
@@ -296,7 +290,7 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 			this.repaint();
 		}
 	}
-	
+
 	public void redraw() {
 		this.repaint();
 	}
@@ -361,7 +355,7 @@ public class SpriteEditor extends JPanel implements MouseWheelListener{
 
 	@Override
 	public void mouseWheelMoved(MouseWheelEvent e) {
-		
+
 	}
 
 	public double getZoomIncrement() {
