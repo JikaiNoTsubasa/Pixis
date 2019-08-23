@@ -25,6 +25,7 @@ import fr.triedge.pixis.model.SpriteSheet;
 import fr.triedge.pixis.ui.MainWindow;
 import fr.triedge.pixis.ui.Node;
 import fr.triedge.pixis.ui.NodeType;
+import fr.triedge.pixis.ui.PaletteEditor;
 import fr.triedge.pixis.ui.SpriteEditor;
 import fr.triedge.pixis.ui.UI;
 import fr.triedge.pixis.utils.Const;
@@ -253,10 +254,33 @@ public class Controller {
 		tabs.addTab(spriteName, Icons.spriteIcon, editor);
 		tabs.setSelectedComponent(editor);
 	}
-
+	
 	public void actionDisplayPalette(String projectName, String paletteName) {
+		JTabbedPane tabs = getMainWindow().getTabPane();
+		int tabCount = tabs.getTabCount();
+		for (int i = 0; i < tabCount; ++i) {
+			String title = tabs.getTitleAt(i);
+			if (title.equals(paletteName)) {
+				tabs.setSelectedIndex(i);
+				return;
+			}
+		}
 		Project prj = getProjectByName(projectName);
+		if (prj == null) {
+			log.warn("Tried to open palette but project is null");
+			return;
+		}
 		Palette pal = getPaletteByName(prj, paletteName);
+		if (pal == null) {
+			log.warn("Tried to open palette but sprite is null");
+			return;
+		}
+		
+		PaletteEditor editor = new PaletteEditor(this,pal,prj);
+		editor.build();
+		tabs.addTab(paletteName,Icons.spriteIcon, editor);
+		tabs.setSelectedComponent(editor);
+		/*
 		Color res = JColorChooser.showDialog(null, "Add color to "+paletteName, Color.white);
 		pal.getColors().add(res.getRGB());
 		UI.info("Color added to Palette");
@@ -265,6 +289,7 @@ public class Controller {
 		} catch (JAXBException e) {
 			UI.error("Cannot save project", e);
 		}
+		*/
 	}
 
 	private void configureLogging() throws FileNotFoundException, IOException {

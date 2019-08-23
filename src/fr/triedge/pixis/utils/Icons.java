@@ -18,12 +18,14 @@ public class Icons {
 	public static ImageIcon folderOpenedIcon;
 	public static ImageIcon saveIcon;
 	public static ImageIcon refreshIcon;
+	public static ImageIcon colorWheelIcon;
 	
 	static {
 		try {
 			spriteIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_male.png")));
-			spriteIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_refresh.png")));
-			saveIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_male.png")));
+			colorWheelIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_colorWheel.png")));
+			refreshIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_refresh.png")));
+			saveIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_save.png")));
 			paletteIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_palette.png")));
 			layerIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_layer.png")));
 			mapIcon = new ImageIcon(ImageIO.read(new File("img/icon/o_map.png")));
